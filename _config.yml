@@ -10,8 +10,8 @@ title:  守望风云
 subtitle: 分享技术，品味人生
 name: 守望风云 
 email: 1946314801@qq.com
-description: 本站是守望风云的无聊博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,守望风云,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+description: 本站是守望风云的无聊博客。内容涵盖生活故事、故事生活、等相关的研究与知识分享。
+keywords: heiyun1992,守望风云，故事
 encoding: "utf-8"
 favicon: favicon.png 
 
@@ -123,17 +123,17 @@ classes:
   -
     href: /life.html
     name: 我的故事
-    describe: 生活就是故事，故事就是生活
+    describe: 生活就是故事
 
   -
     href: /arch.html
-    name: 架构师之路
-    describe: 一个架构师的自我修养
+    name: 她的故事
+    describe: 故事就是生活
 
   -
     href: /jvm.html
-    name: Jvm系列文章
-    describe: Java之根基，Java程序员必学
+    name: 它的故事
+    describe: 生活不是故事
 
 
 # ---------------- #
